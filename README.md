@@ -9,7 +9,7 @@ The excercises are distributed in 2 Main Folders **Problem 1** and **Problem 2**
 # Problem 1
 
 in  **Problem 1** there are 1 subfolder for each Class of Excercise (e.g Collections,Numpy excetera)
-the structure of subfolders is the same :
+the structure is the same for every subfolder :
 
 * Name_Class_Exc
 
@@ -25,4 +25,4 @@ Those Exercise classes that has a low number of Excersise were included in the s
 
 in  **Problem 2**: there is:
  * 1 .ipynb file for all excercises
- * 1 .PNG file for eache excersise (screenshot that proves the resolution on HackerRank)
+ * 1 .PNG file for each excercise (screenshot that proves the resolution on HackerRank)
